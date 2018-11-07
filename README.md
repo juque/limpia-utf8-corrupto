@@ -1,4 +1,4 @@
-Creaner utf-8 corrupted 
+Cleaner utf-8 corrupted 
 ========================
 
 ### How to run
